@@ -1,0 +1,5 @@
+.block {
+    min-height: 75vh;
+    height: max-content;
+    background-color: #39FF14;
+}
